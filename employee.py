@@ -532,7 +532,7 @@ required any signature
 
     def employee_frame(self):
         self.root2=Toplevel(self.root)
-        self.root2.title("Employee Employee Payroll Matrix | Developed By Team - GENESYS IT Training Center")
+        self.root2.title("Employee Employee Payroll Matrix | Developed By SAURABH KAPOOR | M.R.S Technology")
         self.root2.geometry("1000x500+120+100")
         self.root2.config(bg="white")
         title=Label(self.root2,text="All Employees Details",font=("times new roman",30,"bold"), bg="#053246", fg="white",anchor="w",padx=10).pack(side=TOP,fill=X)
